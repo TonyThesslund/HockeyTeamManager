@@ -1,0 +1,16 @@
+Player Name                 |Player Position              |Total Points                 |Goals                        |Assists
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Andrew Myers                |Right Wing                   |1                            |0                            |1                            |
+Benjamin Campbell           |Left Wing                    |0                            |0                            |0                            |
+Daniel White                |Center                       |1                            |1                            |0                            |
+Harry Wood                  |Right Defence                |1                            |1                            |0                            |
+James Martinez              |Center                       |2                            |1                            |1                            |
+Jonathan Cook               |Right Wing                   |1                            |0                            |1                            |
+Joseph Adams                |Left Defence                 |0                            |0                            |0                            |
+Joshua Lopez                |Left Defence                 |0                            |0                            |0                            |
+Lewis Torres                |Left Wing                    |0                            |0                            |0                            |
+Liam Perez                  |Left Wing                    |0                            |0                            |0                            |
+Luke Collins                |Right Wing                   |0                            |0                            |0                            |
+Matthew Brown               |Center                       |0                            |0                            |0                            |
+Oliver Phillips             |Right Defence                |0                            |0                            |0                            |
+Samuel Roberts              |Right Defence                |0                            |0                            |0                            |
